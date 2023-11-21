@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(16, 74, 24);
+    color:black;
+}
+.estiloimagen{
+    border-radius: 5px;    
+}
+.estiloimagen::before{
+    box-shadow: 0 0 10px 10px #fff inset;
+}
+
+.linkredsocial{
+    display:block;
+    color:white;
+    text-decoration: none;
+
+}
+.linkredsocial img{
+    display: inline-block;
+    vertical-align: middle;
+}
+.linkredsocial p{
+    display: inline-block;
+    vertical-align: middle;
+}
